@@ -4,7 +4,7 @@
 * Assignment 2: WikiRacer Pt. 2
 
 These two assignments are very simple, just need to call some functions that STL has implemented.
-But due to the Chinese government's great internet blocking policy, I spent a lot of time (more than 3 hours) setting up the environment for the sake of getting my program to connect to Wikipedia.
+But due to the Great Firewall of China, I spent a lot of time (more than 3 hours) setting up the environment for the sake of getting my program to connect to Wikipedia.
 
 * Assignment 3: STL HashMap
 
